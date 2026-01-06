@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+    string = "My portfolio site"
+    paragraf = "Hello! I'm Noviva. I'm Python Developer. I developed project in Python. And also I can developed web site. I know Python, aiogram, HTML, css, JS and React.js. You can veaw my solo projects cleack “My projects„."
+    render() {
+        return (<div className="name">
+            <h1>{this.string}</h1>
+            <p>{this.paragraf}</p>
+        </div>)
+    }
 }
 
-export default App;
+export default App
