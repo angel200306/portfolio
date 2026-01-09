@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0a64b619.css",
-    "main.js": "/portfolio/static/js/main.e473202b.js",
-    "static/media/Learn Map.png": "/portfolio/static/media/Learn Map.35e977b415df619b0abe.png",
+    "main.js": "/portfolio/static/js/main.b7f4c82c.js",
+    "static/media/Drag-Drop Organizer.png": "/portfolio/static/media/Drag-Drop Organizer.4eb8f264aae658c7d5db.png",
     "static/media/gallery.png": "/portfolio/static/media/gallery.f3302d5ff6a19092f5d3.png",
     "static/media/StudyEnglishBot.jpg": "/portfolio/static/media/StudyEnglishBot.80f29f73ae07d7fbe501.jpg",
     "index.html": "/portfolio/index.html",
     "main.0a64b619.css.map": "/portfolio/static/css/main.0a64b619.css.map",
-    "main.e473202b.js.map": "/portfolio/static/js/main.e473202b.js.map"
+    "main.b7f4c82c.js.map": "/portfolio/static/js/main.b7f4c82c.js.map"
   },
   "entrypoints": [
     "static/css/main.0a64b619.css",
-    "static/js/main.e473202b.js"
+    "static/js/main.b7f4c82c.js"
   ]
 }
