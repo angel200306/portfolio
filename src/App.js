@@ -9,7 +9,7 @@ import logo4 from "./img/galleryapp.jpg"
 class App extends React.Component {
     string = "My portfolio site"
     paragraf = "Hello! I am a young programmer who strives to learn new frameworks and improve my skills. I am a front-end developer, and I also know a little bit about back-end development. The purpose of this website is to show you my skills in my pet projects. Disclaimer!!! My pet projects are not commercial at this time. My projects is learning. Not all projects may be perfect, but I am still working on them to bring them to perfection. Written on React: Gallery, Site about my Study English bot, Drag-Drop Organizer. Also written on React my portfolio site which you are reading now. Also I'm studying React Native and Vue. Written on React Native: Gallery App (this is equivalent Gallery). Written on Vue: Site which continues information about Gallery App."
-    string1 = "My solo projects"
+    string1 = "My pet projects"
     string2 = "My skils"
     paragraf1 = "My skills include HTML, CSS, JS, React and Vue(but I'm studying this framework now)."
     render() {
