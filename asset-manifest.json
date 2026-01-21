@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c91b933f.css",
-    "main.js": "/portfolio/static/js/main.e19d721c.js",
+    "main.js": "/portfolio/static/js/main.9f23de39.js",
     "static/media/Brainy Cards.png": "/portfolio/static/media/Brainy Cards.2cdad4c92680e25759fb.png",
     "static/media/Drag-Drop Organizer.png": "/portfolio/static/media/Drag-Drop Organizer.4eb8f264aae658c7d5db.png",
     "static/media/gallery.png": "/portfolio/static/media/gallery.f3302d5ff6a19092f5d3.png",
@@ -9,10 +9,10 @@
     "static/media/StudyEnglishBot.jpg": "/portfolio/static/media/StudyEnglishBot.80f29f73ae07d7fbe501.jpg",
     "index.html": "/portfolio/index.html",
     "main.c91b933f.css.map": "/portfolio/static/css/main.c91b933f.css.map",
-    "main.e19d721c.js.map": "/portfolio/static/js/main.e19d721c.js.map"
+    "main.9f23de39.js.map": "/portfolio/static/js/main.9f23de39.js.map"
   },
   "entrypoints": [
     "static/css/main.c91b933f.css",
-    "static/js/main.e19d721c.js"
+    "static/js/main.9f23de39.js"
   ]
 }
